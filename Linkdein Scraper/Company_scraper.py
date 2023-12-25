@@ -15,8 +15,8 @@ chrome_options = Options()
 today = datetime.today().strftime('%Y-%m-%d')
 
 #LinkedIn Credentials
-username="robinkumar908@gmail.com"
-password="7906104503"
+username=""
+password=""
 
 # Set LinkedIn page URL for scraping
 page = 'https://www.linkedin.com/company/nike'
